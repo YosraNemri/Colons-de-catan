@@ -8,6 +8,11 @@
 
 # Catan game:
 
+This game was developed as part of an academic project and is intended for educational purpose.
+
+We Believe that one can learn faster and more efficiently through playing ,thus we developed this catan game.
+This game offers the possibility to users to not only play Settlers of catan but feed their competetive instinct.
+
 ## Steps:
 
 1) Place the island of Catan in front of you. It consists of 25 tiles composed of Hills, Forest, Fields, Pasture and Mountains.
