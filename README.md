@@ -39,5 +39,6 @@ You can have a detailed and oriented guide line to take acknowledge of the rules
 ## Game launch: 
 
 In order to be able to play the game please follow this steps: 
+
 $ git clone https://github.com/YosraNemri/Colons-de-catan
 
