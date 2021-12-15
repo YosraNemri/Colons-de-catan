@@ -52,6 +52,12 @@ You will get several files with .o extensions which are the output of compilatio
 
 Tap in the terminal: ./test and enjoy the game! 
 
+
+## Catan game UML:
+
+![image](https://user-images.githubusercontent.com/80050807/146262579-877ee7e0-d0e7-4e95-8e6b-99d4767af26f.png)
+
+
 ## Proposed topological method for board integration:
 
 It is suggested to use the following coordinate grid to indicate the location for hexes and infrastructure objects of the players (see the figure). There are two axes, Ox and Oy, and the angle between the axes is 60∘. On the axis at an equal distance from each other, marks are plotted - integer coordinates.
@@ -60,5 +66,7 @@ Intersections are uniquely specified as a coordinate and a TOP or BOTTOM value. 
 Paths are uniquely specified by a pair of coordinates and an UP, RIGHT, or DOWN value. For example, (see figure) path p1 can be specified as a pair of coordinate (-2, 1) and value UP, path p2 can be specified as a pair of coordinate (-2, 1) and value RIGHT, and path p3 can be specified as a pair from coordinate (-2, 1) and value DOWN.
 
 ![image](https://user-images.githubusercontent.com/80050807/146261881-201577bf-fc47-4e4d-88ac-ef6fe63ae6ca.png)
+
+
 
 
