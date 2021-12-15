@@ -33,4 +33,4 @@ The challenge is to colonize this island.
 9) The game continues until one player marking 10 points is declared the winner!
 
 ## Game rules:
-
+You can have a detailed and oriented guide line to take acknowledge of the rules and how to play the Catan game through this link : https://www.regledujeu.fr/catane/
