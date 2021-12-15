@@ -39,6 +39,15 @@ You can have a detailed and oriented guide line to take acknowledge of the rules
 ## Game launch: 
 
 In order to be able to play the game please follow this steps: 
+### 1. Clone repository:
 
 $ git clone https://github.com/YosraNemri/Colons-de-catan
 
+### 2. Makefile
+open the folder colons-de-catan with a code editor, open terminal and tap Make
+
+### 3. Test
+
+You will get several files with .o extensions which are the output of compilation of cpp files.
+
+Tap in the terminal: ./test and enjoy the game! 
