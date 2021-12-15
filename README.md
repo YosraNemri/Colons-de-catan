@@ -18,7 +18,7 @@ This game offers the possibility to users to not only play Settlers of catan but
 
 ## Steps:
 
-1) Place the island of Catan in front of you. It consists of 25 tiles composed of Hills, Forest, Fields, Pasture and Mountains.
+1) The automtically generated board is composed of 25 tiles composed of Hills, Forest, Fields, Pasture and Mountains.
 The challenge is to colonize this island.
 2) Select the number of players desired 
 3) Enter the corresponding names
