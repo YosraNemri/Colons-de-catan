@@ -7,13 +7,15 @@
 
 
 # Catan game:
+
+## Steps:
+
 1) Place the island of Catan in front of you. It consists of 25 tiles composed of Hills, Forest, Fields, Pasture and Mountains.
 The challenge is to colonize this island.
 2) Select the number of players desired 
 3) Enter the corresponding names
 4) The game is initialized and settlements are accorded randomnly
-5)Ressources are intialized to 10 for each ressource and 0 vectory points:
-
+5)Ressources are intialized to 10 for each ressource and 0 vectory points (see gamers.cpp):
     this->wood = 10; 
     this->bricks = 10;
     this->grain = 10;
@@ -24,3 +26,6 @@ The challenge is to colonize this island.
 7) For each choice there are certain conditions that must be filled ( see main.cpp ).
 8) Then the next player gets to play following the same process.
 9) The game continues until one player marking 10 points is declared the winner!
+
+## Game rules:
+
