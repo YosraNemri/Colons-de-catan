@@ -58,6 +58,16 @@ Tap in the terminal: ./test and enjoy the game!
 
 ## Catan game UML:
 
+Once the game is lauched: 
+ Multiple players possible
+
+ Random roll of the two dices 
+
+ Earning of resources according to the value obtained when rolling the dices
+
+ Buying and upgrading of settlement with resources and availability rules
+
+ Loss of half of the resources if the dices give 7 and the play have 8 or more resources in hand
 ![image](https://user-images.githubusercontent.com/80050807/146262579-877ee7e0-d0e7-4e95-8e6b-99d4767af26f.png)
 
 
