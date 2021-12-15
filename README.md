@@ -55,6 +55,16 @@ You will get several files with .o extensions which are the output of compilatio
 
 Tap in the terminal: ./test and enjoy the game! 
 
+## Code structure:
+
+Main.cpp : Main code that contains all steps mentionned in the UML below
+Gamers.h : Contains players class with its different attributes and methods
+Gamers.cpp : Initalization of attributes along with contructors of different declared methods
+card.h : Class for cards different fonctions
+card.cpp : Constructors of card actions
+board.h : Contains declaration of class of different tile types
+boardStructure.cpp : Constructors of different tile class
+Makefile : A special file, containing shell commands that we want to excute
 
 ## Catan game UML:
 
